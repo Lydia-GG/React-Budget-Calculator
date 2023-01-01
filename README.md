@@ -1,1 +1,1 @@
-# React-Budget-Calcula
+# React-Budget-Calculator
